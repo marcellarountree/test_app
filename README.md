@@ -1,4 +1,4 @@
 # Demo Git App
 
-Demo 
+Demo.
 
